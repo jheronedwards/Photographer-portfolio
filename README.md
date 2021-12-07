@@ -1,5 +1,5 @@
 # Photographer-portfolio
-UI/UX Design for a photographer's/videographer's portfolio home page (press the audio button when video plays for sound experience )
+UI/UX Design for a photographer's/videographer's portfolio home page (press the audio button when video plays for sound experience).
 Demo is split into two videos.
 
 ![image](https://user-images.githubusercontent.com/91984031/145058547-0b760ae9-cbdc-4f3b-8861-54aacedfaf5e.png)
